@@ -12,8 +12,10 @@ I chose Domino's Pizza, and to create a store order tracker with CRUD and pagina
 # Reflection
 There's a lot of things that I'd wish I'd done better before doing the code. Its a good learning experience.
 Some of the things I have to plan better are:
+- Understand what js files interacted with which.
 - Website design
 - Reading documentation of packages before using them.
+- Asked people for help earlier if I was stuck or dealt with unfamiliar syntax. 
 
 # Screenshots
 
