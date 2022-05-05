@@ -53,6 +53,7 @@ Here are screenshots of my website.
 ![image](https://user-images.githubusercontent.com/60967477/166884255-442668c4-86ac-4dac-95f4-16d71ff63b4a.png)
 ![image](https://user-images.githubusercontent.com/60967477/166884287-10a9381a-f265-4eae-b82a-4d57ae353cdd.png)
 
+Note: The pagination doesn’t reflect properly, and I wasn’t able to fix it. What I mean is, when a person adds a new customer, it doesn’t properly refresh the table (but the new entry was added). You would need to click a new page, then come back to the previous page to see it. I was told from a few experienced programmer it was due to having my dataset not connected to a database
 
 # Instructions:
 To run the it:
