@@ -47,23 +47,23 @@ Here are screenshots of my website.
 
 
 # Instructions:
-To run:
-User Interface/Frontend 
--cd crud 
--npm install 
--npm start
+To run the it:
+- cd crud 
+- npm install 
+- npm start
 
 Runs the app in the development mode.
 Open http://localhost:5000 (or it will automatically open it) to view it in your browser.
 
-Libraries used: 
+**Libraries used: **
 React Router DOM      : https://www.npmjs.com/package/react-router-dom
 Axios                 : https://www.npmjs.com/package/axios 
 Node SASS (for SCSS)  : https://www.npmjs.com/package/node-sass 
 
 # Credits:
-- Thank you, to Fariz Gaskin for your classes. 
+- Thank you, to Fariz Gaskin for your classes!
 - Special thanks to the Zero to Mastery Discord Server community for helping me understand what was wrong with my code.
+- Huge thanks to Sean Christoph Gordon for hearing my rants sometimes. 
 - As always, grateful to Fave for the opportunity to work in the FaveTech Hub program. 
 
 # Disclaimer: 
