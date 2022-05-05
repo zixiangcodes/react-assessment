@@ -9,6 +9,12 @@ Besides applying what I've learned, I could use any resource online to complete 
 
 I chose Domino's Pizza, and to create a store order tracker with CRUD and pagination features. 
 
+# Important Files:
+I would say the most important JS files to look at are:
+-	App.js
+-	HomePage.js
+-	OrderList.js (and its corresponding JS files)
+
 # Reflection
 There's a lot of things that I'd wish I'd done better before doing the code. Its a good learning experience.
 Some of the things I have to plan better are:
