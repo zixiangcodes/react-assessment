@@ -7,11 +7,14 @@ Created with Create React App.
 As part of the assessment for React in the Fave Tech Hub program, I was required to make a React app project.
 Besides applying what I've learned, I could use any resource online to complete this project. 
 
-I chose Domino's Pizza, and to create a store order page with CRUD and pagination features. 
+I chose Domino's Pizza, and to create a store order tracker with CRUD and pagination features. 
+
+There's a lot of things that I'd wish I'd done better before doing the code. 
 
 # Screenshots
 
 Here are screenshots of my website. 
+
 **Flowchart**
 ![Flowchart](https://user-images.githubusercontent.com/60967477/166882054-52c50e2e-bc11-49ed-a8cc-236722555e86.png)
 
@@ -49,10 +52,10 @@ Axios                 : https://www.npmjs.com/package/axios
 Node SASS (for SCSS)  : https://www.npmjs.com/package/node-sass 
 
 # Credits:
-
+- Thank you, to Fariz Gaskin for your classes. 
+- Special thanks to the Zero to Mastery Discord Server community for helping me understand what was wrong with my code.
+- As always, grateful to Fave for the opportunity to work in the FaveTech Hub program. 
 
 # Disclaimer: 
 This app was made as part my training, and is not optimized because I'm new to it.
-Additionally, there might be some dependencies that are not used, that will be installed, so apologies on that. 
-
-Cr
+Additionally, there might be some redundant dependencies that are not used that will be installed, so apologies for that. 
