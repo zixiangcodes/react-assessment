@@ -71,7 +71,7 @@ Node SASS (for SCSS)  : https://www.npmjs.com/package/node-sass
 # Credits:
 - Thank you, to Fariz Gaskin for your classes!
 - Special thanks to the Zero to Mastery Discord Server community for helping me understand what was wrong with my code.
-- Huge thanks to Sean Christoph Gordon for hearing my rants sometimes. 
+- Huge thanks to Sean Christoph Gordon, one of my childhood friends (and now programmer buddy) for hearing my rants sometimes. 
 - As always, grateful to Fave for the opportunity to work in the FaveTech Hub program. 
 
 # Disclaimer: 
