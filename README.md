@@ -65,9 +65,10 @@ Runs the app in the development mode.
 Open http://localhost:5000 (or it will automatically open it) to view it in your browser.
 
 **Libraries used: **
-React Router DOM      : https://www.npmjs.com/package/react-router-dom
-Axios                 : https://www.npmjs.com/package/axios 
-Node SASS (for SCSS)  : https://www.npmjs.com/package/node-sass 
+
+- React Router DOM      : https://www.npmjs.com/package/react-router-dom
+- Axios                 : https://www.npmjs.com/package/axios 
+- Node SASS (for SCSS)  : https://www.npmjs.com/package/node-sass 
 
 # Credits:
 - Thank you, to Fariz Gaskin for your classes!
