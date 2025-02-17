@@ -1,7 +1,7 @@
 # React-Assessment
 A simple React App with CRUD and Pagination features.
 
-Created with Create React App.
+Created with Create React App. Pre-chatgpt era. 
 
 # Introduction
 As part of the assessment for React in the Fave Tech Hub program, I was required to make a React app project.
