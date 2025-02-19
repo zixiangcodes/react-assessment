@@ -1,4 +1,4 @@
 [build]
   base = "crud"
-  command = "npm install && npm run build"
+  command = "npm install && npm run build --legacy-peer-deps"
   publish = "crud/public"
