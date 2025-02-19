@@ -57,8 +57,9 @@ Note: The pagination doesn’t reflect properly, and I wasn’t able to fix it. 
 
 # Instructions:
 To run the it:
-- cd crud 
-- npm install 
+- cd crud
+- npm install --legacy-peer-deps
+- npm install / npm audit
 - npm start
 
 Runs the app in the development mode.
