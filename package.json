@@ -2,14 +2,14 @@
   "name": "crud",
   "version": "1.0.0",
   "description": "",
-  "main": "public/index.js",
+  "main": "src/index.js",
   "style": "public/styles.css",
   "files": [
     "public"
   ],
   "scripts": {
     "start": "rollup -c -w",
-    "build": "rollup",
+    "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -49,5 +49,17 @@
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-serve": "^2.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
