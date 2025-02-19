@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(188, 204, 209);
+    margin: 0 0px;
+    font-family: ss;
+  }
+
+/* Later need to change */
+html {
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+p, li, a{
+    font-size: 14px;
+}
+
+nav ul {
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(198, 24, 24);
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav li a:hover {
+    background-color: rgb(187, 202, 211);
+}
+
+a links */
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+} 
+
+a:hover {
+    color: maroon;
+}
+
+a:active {
+    color: blue;
+}
+
+tr.highlight td {
+    background-color: #a6a8bd;
+}
